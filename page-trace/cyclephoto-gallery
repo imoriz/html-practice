@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <h1>Profile</h1>
+            <nav>
+                <ul>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section id="bicycle">
+            <h2>Bicycle</h2>
+            <ul>
+                <li><h3></h3></li>
+                <li><h3></h3></li>
+                <li><h3></h3></li>
+            </ul>
+        </section>
+        
+        <script></script>
+    </body>
+</html>
